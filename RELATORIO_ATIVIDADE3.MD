@@ -1,4 +1,4 @@
-# Relatório da Relatório da atividade 3
+# Relatório da atividade 3 
 **Disciplina: Programação Concorrente e Distribuída**
 **Aluno(s): Naylanne Lissa Gomes Cunha**
 **Turma: SIN04M1**
@@ -128,9 +128,7 @@ Preencha a tabela abaixo utilizando os tempos medidos.
 * Eixo X: número de threads/processos
 * Eixo Y: tempo de execução (segundos)
 
-![Gráfico Tempo Execução](C:\Usuários\nayla\Downloads\tempo_execucao.png)
-
-
+![Gráfico Tempo Execução](C:\Users\nayla\OneDrive\Documentos\Unieuro\Semestre4\PROGCD\Atividade3\tempo_execucao.png)
 
 ---
 
@@ -139,7 +137,7 @@ Preencha a tabela abaixo utilizando os tempos medidos.
 * Eixo X: número de threads/processos
 * Eixo Y: speedup
 
-![Gráfico Speedup](C:\Usuários\nayla\Downloads\speedup.png)
+![Gráfico Speedup](C:\Users\nayla\OneDrive\Documentos\Unieuro\Semestre4\PROGCD\Atividade3\speedup.png)
 
 ---
 
@@ -155,7 +153,7 @@ Construa um gráfico mostrando a **eficiência da paralelização**.
 
 Inserir o gráfico abaixo:
 
-![Gráfico Eficiência](graficos/eficiencia.png)
+![Gráfico Eficiência](C:\Users\nayla\OneDrive\Documentos\Unieuro\Semestre4\PROGCD\Atividade3\eficiencia.png)
 
 ---
 
