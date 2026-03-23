@@ -128,7 +128,7 @@ Preencha a tabela abaixo utilizando os tempos medidos.
 * Eixo X: número de threads/processos
 * Eixo Y: tempo de execução (segundos)
 
-![Gráfico Tempo Execução](C:\Users\nayla\OneDrive\Documentos\Unieuro\Semestre4\PROGCD\Atividade3\tempo_execucao.png)
+![Gráfico Tempo Execução](images/tempo_execucao.png)
 
 ---
 
@@ -137,7 +137,7 @@ Preencha a tabela abaixo utilizando os tempos medidos.
 * Eixo X: número de threads/processos
 * Eixo Y: speedup
 
-![Gráfico Speedup](C:\Users\nayla\OneDrive\Documentos\Unieuro\Semestre4\PROGCD\Atividade3\speedup.png)
+![Gráfico Speedup](images/speedup.png)
 
 ---
 
@@ -153,7 +153,7 @@ Construa um gráfico mostrando a **eficiência da paralelização**.
 
 Inserir o gráfico abaixo:
 
-![Gráfico Eficiência](C:\Users\nayla\OneDrive\Documentos\Unieuro\Semestre4\PROGCD\Atividade3\eficiencia.png)
+![Gráfico Eficiência](images/eficiencia.png)
 
 ---
 
